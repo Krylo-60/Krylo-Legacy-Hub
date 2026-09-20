@@ -1,19 +1,19 @@
-# Krishivpb.github.io - Master Developer Hub
+# Krylo-Legacy-Hub - Master Developer Hub
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Master%20Domain-00f2ff?style=flat-square&logo=github)](https://krishivpb.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Master%20Domain-00f2ff?style=flat-square&logo=github)](https://krylo-60.github.io)
 [![Profile Views](https://komarev.com/ghpvc/?username=krylo-60&label=Profile%20Views&color=00f2ff&style=flat-square)](https://github.com/Krylo-60)
 [![Commits](https://img.shields.io/badge/Commits-840%2B-ffb700?style=flat-square&logo=git)](https://github.com/Krylo-60)
 [![License](https://img.shields.io/badge/License-MIT-00ff9d?style=flat-square)](LICENSE)
 
-Official personal master domain and developer showcase for **Krishiv PB (`@Krylo-60`)** — 12-Year-Old Full-Stack Software Engineer, Founder of **Krishiv Studios**, and Creator of **Krims Code AI** & **SMPLink SaaS**.
+Official personal master domain and developer showcase for **Krylo (`@Krylo-60`)** — 12-Year-Old Full-Stack Software Engineer, Founder of **Krylo Studios**, and Creator of **Krims Code AI** & **SMPLink SaaS**.
 
-Published live at: **[https://krishivpb.github.io](https://krishivpb.github.io)**
+Published live at: **[https://krylo-60.github.io](https://krylo-60.github.io)**
 
 ---
 
 ## 🚀 Featured Top Projects & Repositories
 
-Here is a curated showcase of Krishiv's best open-source repositories, SaaS platforms, AI tools, Discord applications, and Minecraft Java plugins:
+Here is a curated showcase of Krylo's best open-source repositories, SaaS platforms, AI tools, Discord applications, and Minecraft Java plugins:
 
 | Project | Category | Tech Stack | Repository | Live Demo / Hub |
 | :--- | :--- | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ Here is a curated showcase of Krishiv's best open-source repositories, SaaS plat
 | **SMPLink SaaS Platform** | Cloud & Monetization | Vercel Serverless, Express, REST API | [`Krylo-60/smplink-saas`](https://github.com/Krylo-60/smplink-saas) | [Live SaaS](https://smplink-saas.vercel.app) |
 | **KryloSMP Player Portal** | Telemetry & Web App | Paper API, JavaScript, HTML5/CSS3 | [`Krylo-60/krylosmp-player-portal`](https://github.com/Krylo-60/krylosmp-player-portal) | [Live Portal](https://krylosmp-player-portal.vercel.app) |
 | **Krims Discord Bot** | Discord Application | Discord.js v14, Node.js, Webhooks | [`Krylo-60/krims-discord-bot`](https://github.com/Krylo-60/krims-discord-bot) | [Discord Server](https://discord.gg/2hSXQKHvvX) |
-| **Krims Code IDE & CLI** | Developer Tools | JavaScript, Monaco Editor, CSS Grid | [`Krylo-60/krims-code-ide`](https://github.com/Krylo-60/krims-code-ide) | [Open Tool](https://krishivpb.github.io#projects) |
+| **Krims Code IDE & CLI** | Developer Tools | JavaScript, Monaco Editor, CSS Grid | [`Krylo-60/krims-code-ide`](https://github.com/Krylo-60/krims-code-ide) | [Open Tool](https://krylo-60.github.io#projects) |
 | **KryloSMP Java Plugins** | Minecraft Infrastructure | Java, Spigot / Paper API, NBT API | [`Krylo-60/krylo-smp-plugin`](https://github.com/Krylo-60/krylo-smp-plugin) | [Plugin Suite](https://github.com/Krylo-60/krylo-smp-plugin) |
 | **GitHub Profile README** | Profile & Activity | Markdown, Snake Animation, SVG | [`Krylo-60/Krylo-60`](https://github.com/Krylo-60/Krylo-60) | [GitHub Profile](https://github.com/Krylo-60) |
 
@@ -62,7 +62,7 @@ Tailored Paper & Spigot Java plugins enhancing gameplay mechanics, LuckPerms int
 
 ---
 
-## 🛠️ Hub Features (`krishivpb.github.io`)
+## 🛠️ Hub Features (`krylo-60.github.io`)
 
 - 🌐 **Master Domain Hub**: Canonical home unifying all Vercel, Netlify, AI, and Discord apps.
 - 📱 **In-Page App Drawer (`#appPreviewModal`)**: Test Vercel apps directly inside the website via iframe modal drawers.
@@ -73,4 +73,4 @@ Tailored Paper & Spigot Java plugins enhancing gameplay mechanics, LuckPerms int
 
 ---
 
-&copy; 2026 **Krishiv PB (Krylo-60)** • Founder of Krishiv Studios
+&copy; 2026 **Krylo (Krylo-60)** • Founder of Krylo Studios
